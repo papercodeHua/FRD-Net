@@ -2,6 +2,7 @@
 
 * code for "FRD-Net: A full-resolution dilated convolutional network for retinal vessel segmentation"
 * Huang Hua, Zhenhong Shang, and Chunhui Yu
+* Paper:(https://opg.optica.org/viewmedia.cfm?uri=boe-15-5-3344&seq=0)
 
 ## How to train
 
