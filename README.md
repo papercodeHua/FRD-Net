@@ -8,7 +8,8 @@
 
 ## FRD-NET model structure
 
-The network architecture of FRD-Net,include Dilated Residual Module and Multi-scale feature fusion module
+The network architecture of FRD-Net,include Dilated Residual Module and Multi-scale 
+feature fusion module
 <img src="https://github.com/papercodeHua/FRD-Net/blob/main/images/structure1.svg" width="600">
 
 ## experimental result
