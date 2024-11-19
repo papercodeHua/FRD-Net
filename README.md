@@ -7,26 +7,15 @@
 * other author email:(huahuang@tju.edu.cn)
 
 ## FRD-NET model structure
-
-<img src="https://github.com/papercodeHua/FRD-Net/blob/main/images/structure1.svg" width="600">
-</br>
-<img src="https://github.com/papercodeHua/FRD-Net/blob/main/images/structure2.svg" width="400">
+The network architecture of FRD-Net,include Dilated Residual Module and Multi-scale feature fusion module
+<img src="https://github.com/papercodeHua/FRD-Net/blob/main/images/structure1.svg" width="800">
 
 ## experimental result
-
+Visualization comparison of the method with other methods on DRIVE、CHASE_DB1、STARE
 <img src="https://github.com/papercodeHua/FRD-Net/blob/main/images/result1.svg" width="600">
 </br>
-
+Visualization comparison of the method with other methods on HRF
 <img src="https://github.com/papercodeHua/FRD-Net/blob/main/images/result2.svg" width="600">
-</br>
-Comparison of Challenging Local Areas in Retinal vessel Segmentation
-<img src="https://github.com/papercodeHua/FRD-Net/blob/main/images/result3.svg" width="500">
-</br>
-Comparison of Fine Blood Vessel Segmentation between the Proposed Method and Two Observers
-<img src="https://github.com/papercodeHua/FRD-Net/blob/main/images/result4.svg" width="500">
-</br>
-Comparison of Parameters between FRD-Net and Other Segmentation Methods
-<img src="https://github.com/papercodeHua/FRD-Net/blob/main/images/result5.svg" width="400">
 
 ## How to train
 
