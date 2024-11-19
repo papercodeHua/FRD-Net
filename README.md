@@ -1,4 +1,4 @@
-## model
+## This is a retinal vessel segmentation method
 
 * code for "FRD-Net: A full-resolution dilated convolutional network for retinal vessel segmentation"
 * Huang Hua, Zhenhong Shang, and Chunhui Yu
