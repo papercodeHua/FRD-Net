@@ -9,15 +9,24 @@
 ## FRD-NET model structure
 
 <img src="https://github.com/papercodeHua/FRD-Net/blob/main/images/structure1.svg" width="600">
-<img src="https://github.com/papercodeHua/FRD-Net/blob/main/images/structure2.svg" width="600">
+</br>
+<img src="https://github.com/papercodeHua/FRD-Net/blob/main/images/structure2.svg" width="400">
 
 ## experimental result
 
 <img src="https://github.com/papercodeHua/FRD-Net/blob/main/images/result1.svg" width="600">
+</br>
+
 <img src="https://github.com/papercodeHua/FRD-Net/blob/main/images/result2.svg" width="600">
-<img src="https://github.com/papercodeHua/FRD-Net/blob/main/images/result3.svg" width="600">
-<img src="https://github.com/papercodeHua/FRD-Net/blob/main/images/result4.svg" width="600">
-<img src="https://github.com/papercodeHua/FRD-Net/blob/main/images/result5.svg" width="600">
+</br>
+Comparison of Challenging Local Areas in Retinal vessel Segmentation
+<img src="https://github.com/papercodeHua/FRD-Net/blob/main/images/result3.svg" width="500">
+</br>
+Comparison of Fine Blood Vessel Segmentation between the Proposed Method and Two Observers
+<img src="https://github.com/papercodeHua/FRD-Net/blob/main/images/result4.svg" width="500">
+</br>
+Comparison of Parameters between FRD-Net and Other Segmentation Methods
+<img src="https://github.com/papercodeHua/FRD-Net/blob/main/images/result5.svg" width="400">
 
 ## How to train
 
