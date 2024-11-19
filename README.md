@@ -4,10 +4,11 @@
 * Huang Hua, Zhenhong Shang, and Chunhui Yu
 * Paper:(https://opg.optica.org/viewmedia.cfm?uri=boe-15-5-3344&seq=0)
 * Corresponding author email:(szh@kust.edu.cn)
+* other author email:(huahuang@tju.edu.cn)
 
-## model structure
+## FRD-NET model structure
 
-*
+*<img src="https://github.com/explainingai-code/StableDiffusion-PyTorch/assets/144267687/2260d618-046e-411c-bea5-0c4cb7438560" width="300">
 
 ## experimental result
 
