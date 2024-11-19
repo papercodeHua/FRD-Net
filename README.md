@@ -8,9 +8,16 @@
 
 ## FRD-NET model structure
 
-*<img src="https://github.com/papercodeHua/FRD-Net/blob/main/images/structure1.svg" width="300">
+<img src="https://github.com/papercodeHua/FRD-Net/blob/main/images/structure1.svg" width="600">
+<img src="https://github.com/papercodeHua/FRD-Net/blob/main/images/structure2.svg" width="600">
 
 ## experimental result
+
+<img src="https://github.com/papercodeHua/FRD-Net/blob/main/images/result1.svg" width="600">
+<img src="https://github.com/papercodeHua/FRD-Net/blob/main/images/result2.svg" width="600">
+<img src="https://github.com/papercodeHua/FRD-Net/blob/main/images/result3.svg" width="600">
+<img src="https://github.com/papercodeHua/FRD-Net/blob/main/images/result4.svg" width="600">
+<img src="https://github.com/papercodeHua/FRD-Net/blob/main/images/result5.svg" width="600">
 
 ## How to train
 
