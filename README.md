@@ -8,7 +8,7 @@
 
 ## FRD-NET model structure
 
-*<img src="https://github.com/explainingai-code/StableDiffusion-PyTorch/assets/144267687/2260d618-046e-411c-bea5-0c4cb7438560" width="300">
+*<img src="https://github.com/papercodeHua/FRD-Net/blob/main/images/structure1.svg" width="300">
 
 ## experimental result
 
